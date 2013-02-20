@@ -3,28 +3,14 @@ matching-algorithms
 
 Algorithms for bipartite matching
 
-Sample Input-Ouput:
+<p> Sample Input-Ouput:</p>
 
-Input 1:
-4
-1 1001
-2 1002
-5 1004
-4 1005
+<p>Input 1: <br/>4 <br/>1 1001 <br/>2 1002 <br/>5 1004 <br/>4 1005</p>
 
-Output 1:
-4
+<p>Output 1: <br/>4</p>
 
-Input 2:
-4
-1 1001
-2 1001
-3 1002
-3 1002
+<p>Input 2: <br/>4 <br/>1 1001 <br/>2 1001 <br/>3 1002 <br/>3 1002</p>
 
-Output 2:
-2
+<p>Output 2: <br/>2</p>
 
-Assumption: The max number of nodes in all is 2000.
-Number of nodes in one set of bipartite graph: 1 - 1000
-Number of nodes in another set of bipartite graph: 1001 - 2000
+<p>Assumption: The max number of nodes in all is 2000. <br/>Number of nodes in one set of bipartite graph: 1 - 1000 <br/>Number of nodes in another set of bipartite graph: 1001 - 2000 </p>
