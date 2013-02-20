@@ -13,4 +13,4 @@ Algorithms for bipartite matching
 
 <p>Output 2: <br/>2</p>
 
-<p>Assumption: The max number of nodes in all is 2000. <br/>Number of nodes in one set of bipartite graph: 1 - 1000 <br/>Number of nodes in another set of bipartite graph: 1001 - 2000 </p>
+<p>Assumption: The max number of nodes in all is 2000. <br/>Number of nodes in one set of bipartite graph: 1 - 1000. <br/>Number of nodes in another set of bipartite graph: 1001 - 2000. </p>
