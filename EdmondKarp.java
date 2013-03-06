@@ -22,7 +22,7 @@ import java.util.LinkedList;
 
 public class EdmondKarp 
 {
-  public static void main(String[] args) 
+  	public static void main(String[] args) 
 	{
 		InputStream inputStream = System.in;
 		OutputStream outputStream = System.out;
